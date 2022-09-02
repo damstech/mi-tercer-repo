@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Demo01.Librerias.ReglasNegocio</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Demo01.Librerias.EntidadesNegocio\Demo01.Librerias.EntidadesNegocio.vbproj" />
+    <ProjectReference Include="..\Demo01.Librerias.AccesoDatos\Demo01.Librerias.AccesoDatos.vbproj" />
+  </ItemGroup>
+
+</Project>

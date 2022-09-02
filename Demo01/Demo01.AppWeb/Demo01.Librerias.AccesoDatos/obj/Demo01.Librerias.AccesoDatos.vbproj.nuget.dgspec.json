@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DMIRANDAS\\Demo01\\Demo01.AppWeb\\Demo01.Librerias.AccesoDatos\\Demo01.Librerias.AccesoDatos.vbproj": {}
+  },
+  "projects": {
+    "D:\\DMIRANDAS\\Demo01\\Demo01.AppWeb\\Demo01.Librerias.AccesoDatos\\Demo01.Librerias.AccesoDatos.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DMIRANDAS\\Demo01\\Demo01.AppWeb\\Demo01.Librerias.AccesoDatos\\Demo01.Librerias.AccesoDatos.vbproj",
+        "projectName": "Demo01.Librerias.AccesoDatos",
+        "projectPath": "D:\\DMIRANDAS\\Demo01\\Demo01.AppWeb\\Demo01.Librerias.AccesoDatos\\Demo01.Librerias.AccesoDatos.vbproj",
+        "packagesPath": "C:\\Users\\OTROS USUARIOS\\.nuget\\packages\\",
+        "outputPath": "D:\\DMIRANDAS\\Demo01\\Demo01.AppWeb\\Demo01.Librerias.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OTROS USUARIOS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\DMIRANDAS\\Demo01\\Demo01.Librerias.EntidadesNegocio\\Demo01.Librerias.EntidadesNegocio.vbproj": {
+                "projectPath": "D:\\DMIRANDAS\\Demo01\\Demo01.Librerias.EntidadesNegocio\\Demo01.Librerias.EntidadesNegocio.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DMIRANDAS\\Demo01\\Demo01.Librerias.EntidadesNegocio\\Demo01.Librerias.EntidadesNegocio.vbproj": {
+      "restore": {
+        "projectUniqueName": "D:\\DMIRANDAS\\Demo01\\Demo01.Librerias.EntidadesNegocio\\Demo01.Librerias.EntidadesNegocio.vbproj",
+        "projectName": "Demo01.Librerias.EntidadesNegocio",
+        "projectPath": "D:\\DMIRANDAS\\Demo01\\Demo01.Librerias.EntidadesNegocio\\Demo01.Librerias.EntidadesNegocio.vbproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

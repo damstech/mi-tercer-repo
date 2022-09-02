@@ -1,0 +1,26 @@
+﻿body {
+    background-color:lightblue
+}
+.Titulo {
+    color:white;
+    background-color:black;
+    font-size:x-large;
+}
+.Subtitulo {
+    color: black;
+    background-color: white;
+    font-size: x-large;
+}
+.FilaCabecera {
+    color:black;
+    background-color: lightgray;
+ }
+.FilaDatos {
+    color:black;
+    background-color:white;
+ }
+.FilaDatos:hover {
+     color: black;
+     background-color:yellow;
+     cursor:pointer;
+    }

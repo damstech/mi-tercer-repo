@@ -1,0 +1,3 @@
+D:\DMIRANDAS\Demo01\Demo01.AppWeb\Demo01.AppWeb\obj\Debug\Demo01.AppWeb.vbproj.AssemblyReference.cache
+D:\DMIRANDAS\Demo01\Demo01.AppWeb\Demo01.AppWeb\obj\Debug\Demo01.AppWeb.vbproj.SuggestedBindingRedirects.cache
+D:\DMIRANDAS\Demo01\Demo01.AppWeb\Demo01.AppWeb\obj\Debug\Demo01.AppWeb.vbproj.CoreCompileInputs.cache
